@@ -1,6 +1,8 @@
 # Fundamentals-of-Data-Analysis-Project-Dec-18
 Fundamentals of Data Analysis Project December 2018
 
+In order to run Jupyter Notebook one must call the Jupyter Notebook command from within Python or the command line, I use the Cmder program. Intermittently within GitHib there seems to be a problem rendering Notebook ipynb files, in this situation I have used https://nbviewer.jupyter.org/
+
 Problem statement
 The box plot is common in data analysis for investigating individual numerical variables.
 
