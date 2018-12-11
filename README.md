@@ -13,5 +13,5 @@ which you detail your findings.
 In my notebook, I will attempt to:
 - [x] Summarise the history of the box plot and situations in which it used.
 - [x] Demonstrate the use of the box plot using data of your choosing.
-- [ ] Explain any relevant terminology such as the terms quartile and percentile.
+- [x] Explain any relevant terminology such as the terms quartile and percentile.
 - [ ] Compare the box plot to alternatives.
